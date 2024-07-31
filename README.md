@@ -14,7 +14,7 @@ Welcome to the AI Travel Planner App! This application is designed to help you p
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/pavankumart18/Ai-travel-planner-app.git`
+1. Clone the repository: `git clone https://github.com/pavankumart18/Ai-Travel-Planner-App.git`
 
 2. Install the required dependencies: `npm install`
 
